@@ -1,8 +1,8 @@
-<h1>Weather App</h1>h1>
+<h1>Weather App</h1>
 
-A simple and responsive Weather App that shows the current weather conditions of any city using live API data.
+<li>A simple and responsive Weather App that shows the current weather conditions of any city using live API data.</li>
 
-<h1>Features</h1>
+<h2>Features</h2>
 
 Search weather by city name
 
@@ -15,7 +15,7 @@ Responsive design for mobile and desktop
 Fetches real-time data from OpenWeatherMap API (or your chosen API)
 
 
-<h1>Tech Stack</h1>
+<h2>Tech Stack</h2>
 
 HTML – Structure of the app
 
@@ -26,7 +26,7 @@ JavaScript – Fetching API data and updating UI
 Weather API – OpenWeatherMap API for real-time weather data
 
 
-<h1>How to Use</h1>
+<h2>How to Use</h2>
 
 1. Clone this repository
 
@@ -41,6 +41,6 @@ git clone https://github.com/anjalik4538/weather-app1.git
 
 4. View the weather details instantly
    
-   <h1>License</h1>
+   <h2>License</h2>
 
 This project is open source and available under the MIT License.
