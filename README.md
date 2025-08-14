@@ -4,26 +4,26 @@
 
 <h2>Features</h2>
 
-Search weather by city name
+<li>Search weather by city name</li>
 
-Displays temperature, humidity, and weather description
+<li>Displays temperature, humidity, and weather description</li>
 
-Shows weather icons for better visualization
+<li>Shows weather icons for better visualization</li>
 
-Responsive design for mobile and desktop
+<li>Responsive design for mobile and desktop</li>
 
-Fetches real-time data from OpenWeatherMap API (or your chosen API)
+<li>Fetches real-time data from OpenWeatherMap API (or your chosen API)</li>
 
 
 <h2>Tech Stack</h2>
 
-HTML – Structure of the app
+<li>HTML – Structure of the app</li>
 
-CSS – Styling and layout
+<li>CSS – Styling and layout</li>
 
-JavaScript – Fetching API data and updating UI
+<li>JavaScript – Fetching API data and updating UI</li>
 
-Weather API – OpenWeatherMap API for real-time weather data
+<li>Weather API – OpenWeatherMap API for real-time weather data</li>
 
 
 <h2>How to Use</h2>
@@ -43,4 +43,4 @@ git clone https://github.com/anjalik4538/weather-app1.git
    
    <h2>License</h2>
 
-This project is open source and available under the MIT License.
+<li>This project is open source and available under the MIT License.</li>
